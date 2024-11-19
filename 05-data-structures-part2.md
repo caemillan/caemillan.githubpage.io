@@ -657,12 +657,12 @@ gapminder[sample(nrow(gapminder), 5), ]
 ```
 
 ```output
-            country year       pop continent lifeExp  gdpPercap
-1615  United States 1982 232187835  Americas  74.650 25009.5591
-1603 United Kingdom 1982  56339704    Europe  74.040 18232.4245
-1073          Nepal 1972  12412593      Asia  43.971   674.7881
-1648        Vietnam 1967  39463910      Asia  47.838   637.1233
-922      Madagascar 1997  14165114    Africa  54.978   986.2959
+                   country year      pop continent lifeExp  gdpPercap
+568                Germany 1967 76368453    Europe  70.800 14745.6256
+198           Burkina Faso 1977  5889574    Africa  46.137   743.3870
+613                 Guinea 1952  2664249    Africa  33.609   510.1965
+567                Germany 1962 73739117    Europe  70.300 12902.4629
+1308 Sao Tome and Principe 2007   199579    Africa  65.528  1598.4351
 ```
 
 :::::::::::::::::::::::::

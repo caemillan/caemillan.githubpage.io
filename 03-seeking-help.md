@@ -130,9 +130,9 @@ sessionInfo()
 ```
 
 ```output
-R version 4.4.1 (2024-06-14)
+R version 4.4.2 (2024-10-31)
 Platform: x86_64-pc-linux-gnu
-Running under: Ubuntu 22.04.4 LTS
+Running under: Ubuntu 22.04.5 LTS
 
 Matrix products: default
 BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0 
@@ -151,8 +151,8 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 loaded via a namespace (and not attached):
-[1] compiler_4.4.1 tools_4.4.1    yaml_2.3.8     knitr_1.46     xfun_0.43     
-[6] renv_1.0.7     evaluate_0.23 
+[1] compiler_4.4.2 tools_4.4.2    yaml_2.3.8     knitr_1.46     xfun_0.43     
+[6] renv_1.0.11    evaluate_0.23 
 ```
 
 Imprimirá tu versión actual de R, así como cualquier paquete que hayas
